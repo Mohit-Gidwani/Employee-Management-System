@@ -1,0 +1,12 @@
+# Database Configuration
+# Copy this file to config.properties and add your actual MySQL password
+# DO NOT commit config.properties to GitHub - it should be in .gitignore
+
+# Database URL
+db.url=jdbc:mysql://localhost:3306/emp_management
+
+# Database Username
+db.user=root
+
+# Database Password - REPLACE WITH YOUR ACTUAL PASSWORD
+db.password=YOUR_PASSWORD_HERE
